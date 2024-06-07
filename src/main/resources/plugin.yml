@@ -1,0 +1,6 @@
+name: ${project.artifactId}
+version: ${project.version}
+authors: [cozmyc]
+website: http://doodcraft.net/
+api-version: 1.17
+main: net.doodcraft.cozmyc.kineticcancel.KineticCancelPlugin
