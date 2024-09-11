@@ -1,3 +1,7 @@
+[![GitHub Pre-Release](https://img.shields.io/github/release-pre/CozmycDev/KineticCancel.svg)](https://github.com/CozmycDev/KineticCancel/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/CozmycDev/KineticCancel/total.svg)](https://github.com/CozmycDev/KineticCancel/releases)
+![Size](https://img.shields.io/github/repo-size/CozmycDev/KineticCancel.svg)
+
 # Kinetic Cancel
 
 This Spigot plugin cancels kinetic damage for all players on a Spigot/Paper/Arclight server. Idea suggested by VladDracula95 on ProjectKorra.
